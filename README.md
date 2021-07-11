@@ -1,0 +1,2 @@
+# Snowcord
+My discord client
