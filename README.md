@@ -1,2 +1,3 @@
 # Snowcord
-My discord client
+My discord client (in dev)
+
